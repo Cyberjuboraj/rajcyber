@@ -80,6 +80,6 @@ vcs.xml
 # lint
 lint/intermediates/
 lint/generated/
-lint/outputs/
+
 lint/tmp/
-# lint/reports/
+
